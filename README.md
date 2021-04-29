@@ -1,7 +1,11 @@
 # react-native-boilerplate
 
-## My React native project starter
-
-### React
-### Redux
-### Expo
+## Install
+Yarn:
+```bash
+yarn 
+```
+NPM:
+```bash
+npm i 
+```
