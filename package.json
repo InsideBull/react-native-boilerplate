@@ -1,5 +1,7 @@
 {
   "name": "react-native-boilerplate",
+  "version": "1.0.0",
+  "author": "Andry Radimison",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
